@@ -1,0 +1,47 @@
+{
+  "Shaheer_ali": {
+    "announcement": "✔ Announcement",
+    "posvalue": "0",
+    "autobuy": "Enabled",
+    "solprice": "0.10sol",
+    "left_buy": "1.0sol",
+    "right_buy": "5.0sol",
+    "left_sell": "25%",
+    "right_sell": "100%",
+    "buy%": "10.00%",
+    "sell%": "10.00%",
+    "protect": "turbo",
+    "transaction_priority": "medium",
+    "transaction_price": "0.00001 SOL"
+  },
+  "KIKonssdev": {
+    "announcement": "✔ Announcement",
+    "posvalue": "0",
+    "autobuy": "Enabled",
+    "solprice": "0.10sol",
+    "left_buy": "1.0sol",
+    "right_buy": "5.0sol",
+    "left_sell": "25%",
+    "right_sell": "100%",
+    "buy%": "10.00%",
+    "sell%": "10.00%",
+    "protect": "turbo",
+    "transaction_priority": "medium",
+    "transaction_price": "0.00001 SOL"
+  },
+  "Bblazin303": {
+    "announcement": "✔ Announcement",
+    "posvalue": "0",
+    "autobuy": "Enabled",
+    "solprice": "0.10sol",
+    "left_buy": "1.0sol",
+    "right_buy": "5.0sol",
+    "left_sell": "25%",
+    "right_sell": "100%",
+    "buy%": "10.00%",
+    "sell%": "10.00%",
+    "protect": "turbo",
+    "transaction_priority": "medium",
+    "transaction_price": "0.00001 SOL"
+  }
+}
